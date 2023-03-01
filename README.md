@@ -121,8 +121,8 @@ bool = isObject( [] );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-object-like`][@stdlib/assert/is-object-like]</span><span class="delimiter">: </span><span class="description">test if a value is object-like.</span>
--   <span class="package-name">[`@stdlib/assert/is-plain-object`][@stdlib/assert/is-plain-object]</span><span class="delimiter">: </span><span class="description">test if a value is a plain object.</span>
+-   <span class="package-name">[`@stdlib/assert-is-object-like`][@stdlib/assert/is-object-like]</span><span class="delimiter">: </span><span class="description">test if a value is object-like.</span>
+-   <span class="package-name">[`@stdlib/assert-is-plain-object`][@stdlib/assert/is-plain-object]</span><span class="delimiter">: </span><span class="description">test if a value is a plain object.</span>
 
 </section>
 
