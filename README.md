@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@deno/mod.js';
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.1.1-deno/mod.js';
 ```
 
 #### isObject( value )
@@ -86,7 +86,7 @@ bool = isObject( true );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@deno/mod.js';
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.1.1-deno/mod.js';
 
 var bool = isObject( {} );
 // returns true
