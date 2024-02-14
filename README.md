@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@esm/index.mjs';
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.2.0-esm/index.mjs';
 ```
 
 #### isObject( value )
@@ -91,7 +91,7 @@ bool = isObject( true );
 <body>
 <script type="module">
 
-import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@esm/index.mjs';
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.2.0-esm/index.mjs';
 
 var bool = isObject( {} );
 // returns true
