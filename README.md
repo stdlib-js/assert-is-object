@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-object/tags). For example,
+
+```javascript
 import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.2.0-esm/index.mjs';
 ```
 
@@ -91,7 +96,7 @@ bool = isObject( true );
 <body>
 <script type="module">
 
-import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@v0.2.0-esm/index.mjs';
+import isObject from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-object@esm/index.mjs';
 
 var bool = isObject( {} );
 // returns true
